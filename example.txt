@@ -1,0 +1,5 @@
+The IT support team received three tickets on Monday morning.
+A new employee needed access to the company VPN.
+The finance team reported that its Power BI dashboard showed yesterday’s data.
+An engineer found that the overnight data pipeline had failed and reran it.
+By noon, the dashboard was up to date, and the VPN request was awaiting manager approval.
